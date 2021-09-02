@@ -17,6 +17,6 @@ System.out.println();
 //error we get to solve this use below method;
 num = (int)dub;
 System.out.println("Explicity Type Casting");
-System.out.println("double value is "+num);
+System.out.println("num value is "+num);
 }
 }
